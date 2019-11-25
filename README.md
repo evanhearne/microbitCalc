@@ -1,1 +1,2 @@
-# microbitCalc
+# microbitCalc Project - School
+## 
